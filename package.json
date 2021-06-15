@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alf27048/sass-con-npm/issues"
   },
-  "homepage": "https://github.com/alf27048/sass-con-npm#readme"
+  "homepage": "https://github.com/alf27048/sass-con-npm#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
 }
