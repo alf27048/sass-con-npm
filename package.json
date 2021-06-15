@@ -1,0 +1,19 @@
+{
+  "name": "probando-sass",
+  "version": "1.0.0",
+  "description": "Estoy probando sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alf27048/sass-con-npm.git"
+  },
+  "author": "alf_anital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alf27048/sass-con-npm/issues"
+  },
+  "homepage": "https://github.com/alf27048/sass-con-npm#readme"
+}
